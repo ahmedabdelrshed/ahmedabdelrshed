@@ -45,19 +45,6 @@ I'm a detail-oriented and passionate MERN stack developer who loves turning idea
 
 ---
 
-## 📂 Featured Projects
-
-### 🛒 E-commerce Web App  
-Built with Next.js, TypeScript, Tailwind CSS, ShadCN UI, Zustand, Stripe, and OneEntry  
-🔗 [Live Demo](https://your-live-demo-link.com)  
-📁 [GitHub Repo](https://github.com/ahmedabdelrshed/nextjs-ecommerce)
-
-### ✅ Task Tracker (Graduation Project)  
-A full task management system with authentication, file uploads, advanced filtering, and offline handling  
-📁 [GitHub Repo](https://github.com/ahmedabdelrshed/task-tracker)
-
----
-
 ## 📫 Let's Connect
 
 - [LinkedIn](http://www.linkedin.com/in/ahmed-abdelrashed)
