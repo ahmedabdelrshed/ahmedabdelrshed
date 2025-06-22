@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ahmed Abdelrashed
 
-<!--
-**ahmedabdelrshed/ahmedabdelrshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student | 💻 MERN Stack Developer | 🌐 Passionate about building modern web apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a detail-oriented and passionate MERN stack developer who loves turning ideas into full-stack web applications. I enjoy writing clean, maintainable code and building user-friendly interfaces with seamless backend integrations.
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+
+### 🗄️ Backend
+- Node.js
+- Express.js
+- MongoDB
+- RESTful APIs
+
+### ⚙️ Tools & Others
+- Git & GitHub
+- VS Code
+- Postman
+- Zustand
+- Cloudinary
+- Stripe Integration
+- React Hook Form + Yup
+- JWT & Cookies
+- Redux-toolkit 
+
+---
+
+## 📈 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelrshed&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelrshed&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-commerce Web App  
+Built with Next.js, TypeScript, Tailwind CSS, ShadCN UI, Zustand, Stripe, and OneEntry  
+🔗 [Live Demo](https://your-live-demo-link.com)  
+📁 [GitHub Repo](https://github.com/ahmedabdelrshed/nextjs-ecommerce)
+
+### ✅ Task Tracker (Graduation Project)  
+A full task management system with authentication, file uploads, advanced filtering, and offline handling  
+📁 [GitHub Repo](https://github.com/ahmedabdelrshed/task-tracker)
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](http://www.linkedin.com/in/ahmed-abdelrashed)
+- [Portfolio](https://portfolio-eta-gold-48.vercel.app/)
+- 📧 Email: a7medabdelras7med99@gmail.com
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to check out my projects and connect.**
