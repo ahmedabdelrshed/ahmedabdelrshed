@@ -23,25 +23,18 @@ I'm a detail-oriented and passionate MERN stack developer who loves turning idea
 - Node.js
 - Express.js
 - MongoDB
+- postgrsql 
 - RESTful APIs
 
 ### ⚙️ Tools & Others
 - Git & GitHub
 - VS Code
 - Postman
-- Zustand
 - Cloudinary
 - Stripe Integration
 - React Hook Form + Yup
 - JWT & Cookies
 - Redux-toolkit 
-
----
-
-## 📈 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelrshed&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelrshed&layout=compact&theme=tokyonight)
 
 ---
 
