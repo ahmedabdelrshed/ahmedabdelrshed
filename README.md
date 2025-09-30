@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ahmed Abdelrashed
 
-🎓 Computer Science student | 💻 MERN Stack Developer | 🌐 Passionate about building modern web apps
+ 💻 MERN Stack Developer | 🌐 Passionate about building modern web apps
 
 ---
 
